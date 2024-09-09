@@ -1,3 +1,8 @@
+//Zakir Khan 
+//UCFID --- 6009 2102 0372 1835 
+//Professor Juan Parra COP 3223 
+//September 8, 2024
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
